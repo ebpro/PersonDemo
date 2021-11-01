@@ -1,4 +1,4 @@
-package fr.univtln.bruno.demos;
+package fr.univtln.bruno.samples.persons;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
